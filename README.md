@@ -1,4 +1,4 @@
-# MARKDOWN TEST  
-
+# Шпаргалка по *Git*
+----
 ## Trapaholics 
 ~~asdasdasd~~.
